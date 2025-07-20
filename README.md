@@ -121,5 +121,3 @@ Feel free to open issues or submit pull requests to improve this project (e.g., 
 No explicit license is provided here. You are free to use or modify the code for your own projects. If you redistribute the script, please include attribution to the original author(s).
 
 ---
-
-You can adjust this README to include more detail on any customizations or your specific environment. Enjoy your motion-detecting smart door system!

@@ -1,4 +1,4 @@
-# Smart Door: Motion Detection & Email Alert System
+# HomeLens: Smart Door camera with Motion Detection & Email Alert System
 
 This Python script (`Smart_Door.py`) uses a Raspberry Pi camera (or similar camera setup) to detect motion at a door. Once motion is detected, it records a short video and emails images to a specified email address.
 
